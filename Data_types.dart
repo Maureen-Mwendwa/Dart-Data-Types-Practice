@@ -1,3 +1,6 @@
+// Dart programs can only have one main function.
+// The presence of multiple main functions in this code is for practice purposes.
+
 //Variable Declaration and Initialization
 import 'dart:async';
 import 'dart:ffi';
